@@ -7,3 +7,5 @@ This can be used for non-commercial or commercial uses, but credits is appreciat
 addition information:
 this template generates a FastNoise to generate a map you can change the valuse of this or copy and paste to generate more fast noises
 This code also uses 2 globals script so store vaiables and read or write data
+
+if you want a better explantion later and not read alot i will try to make video explaing how it work
